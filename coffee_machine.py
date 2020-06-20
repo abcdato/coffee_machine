@@ -81,7 +81,6 @@ class CoffeeMachine():
             self.user_input()
 
     def fill(self):
-
         self.water += int(
             input("Write how many ml of water do you want to add:\n"))
         self.milk += int(
