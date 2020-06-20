@@ -102,5 +102,5 @@ class CoffeeMachine():
         print(self.cups, "of disposable cups")
         print(self.money, "of money")
 
-newMachine = CoffeeMachine()
-newMachine.user_input()
+new_machine = CoffeeMachine()
+new_machine.user_input()
